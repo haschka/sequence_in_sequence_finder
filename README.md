@@ -1,3 +1,7 @@
+
+
+[![DOI](https://zenodo.org/badge/406458347.svg)](https://zenodo.org/badge/latestdoi/406458347)
+
 # A FASTA - Fourier Transform based Sequence in Sequence Finder
 
 (c) Thomas Haschka 2021 - for a license see the provided license file.
