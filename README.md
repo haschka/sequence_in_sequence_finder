@@ -11,6 +11,10 @@ https://doi.org/10.5281/zenodo.5510252
 This tool finds a fasta sequence in a fasta sequence using
 the fourier transform.
 
+# Video Tutorial
+A video explaination on the internals of this tool and how to use it.
+https://youtu.be/qsWkuF8Cla0
+
 # Installation
 
 This tool requires the FFTW3 library with double precision support. In
